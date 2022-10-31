@@ -1,0 +1,17 @@
+.App {
+  height: 100vh;
+  padding: 20px;
+  background-color: #fff1e6;
+}
+.submit {
+  background-color: #ccd5ae;
+  /* border-radius: 10px; */
+}
+.submit:hover {
+  background-color: #e9edc9;
+  border: 1px solid #d4a373;
+}
+
+.list-group-item {
+  background-color: #faedcd;
+}
